@@ -2,7 +2,7 @@
 
 **Effective November 12, 2026**
 
-This policy applies to the Android version of Blocktris: Number Block Puzzle, provided by BritCat Games. For privacy questions, contact [britcatgames@gmail.com](mailto:britcatgames@gmail.com).
+This policy applies to the Android version of Blocktris: Number Block Puzzle, provided by PLAVNY Games. For privacy questions, contact [britcatgames@gmail.com](mailto:britcatgames@gmail.com).
 
 ## Game data and accounts
 
@@ -10,15 +10,15 @@ Blocktris does not offer account registration or sign-in. Game progress, in-game
 
 ## Data sent to Google and why
 
-- **Firebase Analytics** records how the game is used, including app opens, sessions, and events such as starting or completing the tutorial. It uses an app installation identifier and may process information such as the device model, operating system, app version, and approximate region derived from the IP address. BritCat Games uses these reports to understand how people play and improve the game.
-- **Firebase Crashlytics** receives crash reports, including stack traces, app and device information at the time of a crash, and installation identifiers. Reports can include recent Analytics events that help explain what happened before the crash. BritCat Games uses these reports to diagnose and fix crashes.
+- **Firebase Analytics** records how the game is used, including app opens, sessions, and events such as starting or completing the tutorial. It uses an app installation identifier and may process information such as the device model, operating system, app version, and approximate region derived from the IP address. PLAVNY Games uses these reports to understand how people play and improve the game.
+- **Firebase Crashlytics** receives crash reports, including stack traces, app and device information at the time of a crash, and installation identifiers. Reports can include recent Analytics events that help explain what happened before the crash. PLAVNY Games uses these reports to diagnose and fix crashes.
 - **Google AdMob** serves optional ads that players can choose to watch for in-game coins. When the app requests or displays ads, the SDK may process and share the IP address and approximate location derived from it, interactions such as ad views and taps, app and SDK diagnostics, and permitted device or app identifiers. Google uses these data to deliver and measure ads, provide analytics, and detect fraud and abuse.
 
 The SDKs encrypt data in transit. See [Firebase's data disclosures](https://firebase.google.com/docs/android/play-data-disclosure), [AdMob's data disclosures](https://developers.google.com/admob/android/privacy/play-data-disclosure), and [how Google uses data from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
 ## Children and ad choices
 
-Blocktris configures its AdMob requests for child treatment and limits ad content to rating G. Watching an ad is optional. If the game displays an **Ad privacy** option, you can use it to review the available ad privacy choices. Firebase Analytics and Crashlytics can collect data even if you choose not to watch an ad. Parents or guardians can contact BritCat Games at the address above with questions about their child's data.
+Blocktris configures its AdMob requests for child treatment and limits ad content to rating G. Watching an ad is optional. If the game displays an **Ad privacy** option, you can use it to review the available ad privacy choices. Firebase Analytics and Crashlytics can collect data even if you choose not to watch an ad. Parents or guardians can contact PLAVNY Games at the address above with questions about their child's data.
 
 ## Retention and deletion
 
@@ -29,9 +29,9 @@ Blocktris configures its AdMob requests for child treatment and limits ad conten
 
 For questions about accessing or deleting data already sent to these services, email [britcatgames@gmail.com](mailto:britcatgames@gmail.com) and mention Blocktris. The game does not offer in-app deletion of data held by these services.
 
-## BritCat Games Terms & Conditions
+## PLAVNY Games Terms & Conditions
 
-These terms and conditions apply to the BritCat Games apps (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service.
+These terms and conditions apply to the PLAVNY Games apps (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service.
 
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
@@ -49,7 +49,7 @@ These terms and conditions are effective as of 2025-08-06
 Contact Us
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at britcatgames@gmail.com.
 
-BritCat Games apps may use different third-party services. For the services used by Blocktris on Android and how they handle data, see the Blocktris privacy policy above. The following is a general list of services for BritCat Games apps:
+PLAVNY Games apps may use different third-party services. For the services used by Blocktris on Android and how they handle data, see the Blocktris privacy policy above. The following is a general list of services for PLAVNY Games apps:
 
 Google Play Services
 AdMob
@@ -78,7 +78,7 @@ The developer is not responsible for the content, accuracy, or reliability of an
 Clicking on such ads is at the user's own risk.
 
 3. Analytics and Data Collection
-For Blocktris on Android, see the [Blocktris privacy policy](#blocktris-number-block-puzzle-privacy-policy) above. The general description below applies to other BritCat Games apps.
+For Blocktris on Android, see the [Blocktris privacy policy](#blocktris-number-block-puzzle-privacy-policy) above. The general description below applies to other PLAVNY Games apps.
 
 The Game may collect limited, non-personally identifiable data such as:
   Device type
