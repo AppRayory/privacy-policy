@@ -1,5 +1,7 @@
 # Blocktris: Number Block Puzzle Privacy Policy
 
+Looking for Everquiver? Read the [Everquiver: Idle Archer RPG Privacy Policy](everquiver.md).
+
 **Effective November 12, 2026**
 
 This policy applies to the Android version of Blocktris: Number Block Puzzle, provided by PLAVNY Games. For privacy questions, contact [britcatgames@gmail.com](mailto:britcatgames@gmail.com).
