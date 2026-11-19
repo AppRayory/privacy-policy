@@ -8,6 +8,8 @@ This policy applies to the Android version of Everquiver: Idle Archer RPG, publi
 
 The game stores progress, inventory, and settings on your device. If Android backup is enabled, Android may back up eligible app data through your device's backup service. If you email us, we use your email address and the information you provide to respond to your request.
 
+In versions with Google Play Games Saved Games, the game uses your Play Games player ID to associate your save with your Play Games profile. When you are signed in and synchronization succeeds, the game sends Google a copy of your saved profile, including progress, inventory, in-game currency, and recorded purchase rewards. This lets you restore the last synchronized save after reinstalling or changing devices using the same Play Games profile.
+
 ## Analytics and crash reporting
 
 **Firebase Analytics** receives app usage data, such as app opens and sessions, app and device information, installation identifiers, and approximate region. We use these reports to understand how the game is used and improve it.
@@ -24,4 +26,4 @@ You can decline to watch a rewarded ad. Where an ad privacy form is shown, use i
 
 Google Firebase and Appodeal describe how their SDKs protect data in transit in the disclosures linked above. Analytics data retention depends on the settings for the Google Analytics property. Firebase Crashlytics retains crash stack traces and associated identifiers for 90 days before beginning removal. Appodeal and its partners retain advertising data according to their policies and the purpose of processing. We keep support correspondence as needed to resolve the request and meet applicable obligations. See [Google Analytics data retention](https://support.google.com/analytics/answer/7667196).
 
-You can remove the local save by clearing the app's storage in Android settings. This erases local progress. Existing backups are managed through Android backup settings, and clearing local storage does not erase data already sent to service providers. To request access to or deletion of data, or to ask about ad privacy, email [britcatgames@gmail.com](mailto:britcatgames@gmail.com) and mention Everquiver.
+You can remove the local save by clearing the app's storage in Android settings. This erases local progress. Clearing app storage leaves the Play Games cloud copy in place. You can manage saved game data through Google Play Games or contact us for help. Existing Android backups are managed through Android backup settings, and clearing local storage does not erase data already sent to service providers. To request access to or deletion of data, or to ask about ad privacy, email [britcatgames@gmail.com](mailto:britcatgames@gmail.com) and mention Everquiver.

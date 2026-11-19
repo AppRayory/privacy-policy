@@ -66,11 +66,15 @@ Please be aware that the Service Provider does not assume responsibility for cer
 
 
 1. Data and Game Progress
-All game data, including but not limited to progress, in-game currency, and purchased content ("Game Assets"), is stored locally on the device used at the time of accepting this agreement.
+For games other than Everquiver, all game data, including but not limited to progress, in-game currency, and purchased content ("Game Assets"), is stored locally on the device used at the time of accepting this agreement.
 
 The developer is not responsible for any loss, deletion, or corruption of game data or Game Assets, regardless of the cause.
 
 If you delete the Game, reset your device, or switch to another device, your data and Game Assets may be permanently lost.
+
+Everquiver saves your profile on your device. When you sign in to Google Play Games and synchronization succeeds, Google Play Games Saved Games also stores a copy of your progress, inventory, in-game currency, and recorded purchase rewards. You can restore the last synchronized profile after reinstalling or switching devices by using the same Play Games profile. Progress made since the last successful sync may be lost.
+
+Google operates the cloud save service. PLAVNY Games cannot guarantee its availability or that every upload, synchronization, or restoration will succeed. To the extent permitted by applicable law, PLAVNY Games is not responsible for loss of progress caused by an outage or failure of Google Play Games Saved Games. This does not limit rights you have under applicable law.
 
 2. Advertisements
 The Game may display third-party advertisements.
@@ -80,7 +84,7 @@ The developer is not responsible for the content, accuracy, or reliability of an
 Clicking on such ads is at the user's own risk.
 
 3. Analytics and Data Collection
-For Blocktris on Android, see the [Blocktris privacy policy](#blocktris-number-block-puzzle-privacy-policy) above. The general description below applies to other PLAVNY Games apps.
+For Blocktris on Android, see the [Blocktris privacy policy](#blocktris-number-block-puzzle-privacy-policy) above. For Everquiver, see the [Everquiver Privacy Policy](everquiver.md) for cloud saves, analytics, crash reporting and advertising. The general description below applies to other PLAVNY Games apps.
 
 The Game may collect limited, non-personally identifiable data such as:
   Device type
